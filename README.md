@@ -25,7 +25,7 @@ Probability refresher material related to "Math for machine learning": [Prince, 
 
 
 ---
-### [Topic 2 Bayesian Inference for Gaussians, Bayesian linear and logistic regression](/Lec02)
+### [Topic 2 Bayesian Inference for Gaussians, Bayesian linear and logistic regression](/Lec2)
 **Lecture**  
 [Gaussian Formulas](/Lec2/GaussianFormulas.pdf) \
 [Lec2 Gaussian Estimates](/Lec2/GaussianModels.pdf) \
@@ -40,7 +40,7 @@ Code: [Lec 2 Notebook1](/Lec2/Gaussian_Models_Final.ipynb) \
 
 ---
 
-### [Topic 3 Bayesian logistic regression, Monte Carlo Sampling](/Lec02)
+### [Topic 3 Bayesian logistic regression, Monte Carlo Sampling](/Lec3)
 **Lecture**  
 [Lec3 Bayesian Logistic regression](/Lec3/LogisticRegression.pdf) \
 [Lec3 MCMC](/Lec3/MCMC.pdf) \
@@ -54,6 +54,21 @@ Reading: Chapters 8.2 and 10 from [Villani, Mattias, (2025), Bayesian Learning.]
 [Roy Friedman, A Simplified Overview of Langevin Dynamics, 2022.](https://friedmanroy.github.io/blog/2022/Langevin/)
 
 Code:
+
+---
+
+## [Topic 4 Kalman and particle filters](/Lec4)
+**Lecture**  
+[Lec4 State space models](/Lec4/ssm_slides.pdf) \
+[Lec4 Kalman filter](/Lec3/Kalman_filter_slides.pdf) \
+[Lec4 Particle filters](/Lec3/Particle_filter_slides.pdf)
+
+Code: [Lec 4 Notebook1: Kalman Filters](/Lec4/ssm_examples.ipynb) \
+[Lec 4 Notebook2, Particle fitlers](/Lec4/bearings_only_particle_filter.ipynb) \
+[Kalman and Bayesian Filters in Python (with a book)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+
+Reading: 
+
 
 ---
 ### Support or Contact
