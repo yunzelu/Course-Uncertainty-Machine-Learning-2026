@@ -52,15 +52,13 @@ Code: [Lec 3 Notebook1: Laplace Approximation + Logistic Regression](/Lec3/Lapla
 Reading: Chapters 8.2 and 10 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
 [Roy Friedman, A Simplified Overview of Langevin Dynamics, 2022.](https://friedmanroy.github.io/blog/2022/Langevin/)
 
-Code:
-
 ---
 
 ## [Topic 4 Kalman and particle filters](/Lec4)
 **Lecture**  
 [Lec4 State space models](/Lec4/ssm_slides.pdf) \
-[Lec4 Kalman filter](/Lec3/Kalman_filter_slides.pdf) \
-[Lec4 Particle filters](/Lec3/Particle_filter_slides.pdf)
+[Lec4 Kalman filter](/Lec4/Kalman_filter_slides.pdf) \
+[Lec4 Particle filters](/Lec4/Particle_filter_slides.pdf)
 
 Code: [Lec 4 Notebook1: Kalman Filters](/Lec4/ssm_examples.ipynb) \
 [Lec 4 Notebook2, Particle fitlers](/Lec4/bearings_only_particle_filter.ipynb) \
